@@ -1,0 +1,14 @@
+package core.person;
+
+import java.util.Objects;
+
+public class Person {
+	
+	private String nickname;
+	private String address;
+	private int age;
+	
+	
+	
+
+}

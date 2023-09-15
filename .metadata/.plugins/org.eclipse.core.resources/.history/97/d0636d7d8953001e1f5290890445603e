@@ -1,0 +1,13 @@
+package core.main;
+
+import core.chap1.Hotel;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		Hotel hotel = new Hotel();
+		
+	}
+
+}
